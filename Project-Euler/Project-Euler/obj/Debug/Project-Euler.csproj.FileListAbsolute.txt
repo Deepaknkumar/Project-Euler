@@ -1,0 +1,6 @@
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\bin\Debug\Project-Euler.exe.config
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\bin\Debug\Project-Euler.exe
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\bin\Debug\Project-Euler.pdb
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\obj\Debug\Project-Euler.csprojResolveAssemblyReference.cache
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\obj\Debug\Project-Euler.exe
+C:\Users\deepa\Documents\GitHub\Project-Euler\Project-Euler\Project-Euler\obj\Debug\Project-Euler.pdb
